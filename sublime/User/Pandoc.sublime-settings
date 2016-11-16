@@ -1,0 +1,8 @@
+{
+  "format_pdf": {
+    // use --latex-engine=engine where engine is one of pdflatex|lualatex|xelatex
+    // This may need to be specified with a full path (e.g. on a mac with
+    // BasicTeX "/usr/texbin/pdflatex").
+    "to": ["--latex-engine=/Library/TeX/texbin/pdflatex", "--toc"]
+  }
+}

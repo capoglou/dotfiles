@@ -1,0 +1,6 @@
+[
+  { "keys": ["super+shift+c"], "command": "open_terminal" },
+  { "keys": ["shift+super+ctrl+a"], "command": "alignment" },
+  { "keys": ["super+shift+t"], "command": "reopen_last_file" },
+  { "keys": ["shift+alt+n"], "command": "advanced_new_file_new"}
+]

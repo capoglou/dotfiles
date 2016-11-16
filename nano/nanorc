@@ -1,0 +1,44 @@
+set tabsize 2
+set tabstospaces
+set const
+set const
+set autoindent
+set nowrap
+
+include /Users/apas/.nano/asm.nanorc
+include /Users/apas/.nano/awk.nanorc
+include /Users/apas/.nano/c.nanorc
+include /Users/apas/.nano/cmake.nanorc
+include /Users/apas/.nano/css.nanorc
+include /Users/apas/.nano/debian.nanorc
+include /Users/apas/.nano/fortran.nanorc
+include /Users/apas/.nano/gentoo.nanorc
+include /Users/apas/.nano/groff.nanorc
+include /Users/apas/.nano/html.nanorc
+include /Users/apas/.nano/java.nanorc
+include /Users/apas/.nano/makefile.nanorc
+include /Users/apas/.nano/man.nanorc
+include /Users/apas/.nano/mgp.nanorc
+include /Users/apas/.nano/mutt.nanorc
+include /Users/apas/.nano/nanorc.nanorc
+include /Users/apas/.nano/objc.nanorc
+include /Users/apas/.nano/ocaml.nanorc
+include /Users/apas/.nano/patch.nanorc
+include /Users/apas/.nano/perl.nanorc
+include /Users/apas/.nano/php.nanorc
+include /Users/apas/.nano/pov.nanorc
+include /Users/apas/.nano/python.nanorc
+include /Users/apas/.nano/ruby.nanorc
+include /Users/apas/.nano/sh.nanorc
+include /Users/apas/.nano/tcl.nanorc
+include /Users/apas/.nano/tex.nanorc
+
+# A comment for the last two files producing error
+include /Users/apas/.nano/xml.nanorc
+include /Users/apas/.nano/markdown.nanorc
+
+# Another commentcing error
+include /usr/local/share/nano/xml.nanorc
+include /usr/local/share/nano/markdown.nanorc
+
+# Another comment

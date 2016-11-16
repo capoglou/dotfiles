@@ -1,0 +1,7 @@
+#!/bin/bash
+filename=${1}
+output=${filename%.md}
+pandoc ${filename} --toc --latex-engine=/Library/TeX/texbin/pdflatex \
+  -f markdown+raw_tex+yaml_metadata_block \
+  -t latex -s --highlight-style pygments -o ${output}.pdf
+open -a Preview ${output}.pdf

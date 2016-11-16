@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Awk",
+		"C++ Snippets",
+		"ChannelRepositoryTools",
+		"DashDoc",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Git",
+		"GitGutter",
+		"LaTeXTools",
+		"LiveReload",
+		"Markdown Preview",
+		"Minifier",
+		"Package Control",
+		"Pandoc",
+		"Pastery",
+		"Print to HTML",
+		"rsub",
+		"Solarized Color Scheme",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

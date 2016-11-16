@@ -1,0 +1,8 @@
+#!/bin/bash
+filename=${1}
+output=${filename%.md}
+pandoc ${filename} --toc --template=/Users/apas/pdoc/templates/tufte.latex \
+  --latex-engine=/Library/TeX/texbin/pdflatex \
+  -f markdown+raw_tex+yaml_metadata_block \
+  -t latex --highlight-style pygments -o ${output}.pdf
+open -a Preview ${output}.pdf

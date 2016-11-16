@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ $# -eq 1 ]]; then
+  cd /Users/apas/git/athena/ && source env/bin/activate && python athena.py build
+else
+  cd /Users/apas/git/athena/ && source env/bin/activate && python athena.py
+fi

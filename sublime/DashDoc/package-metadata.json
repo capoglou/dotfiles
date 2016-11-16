@@ -1,0 +1,1 @@
+{"description": "Open the selected text or text under cursor in Dash documentation browser", "url": "https://github.com/farcaller/DashDoc", "platforms": ["osx", "windows"], "version": "1.6.0", "sublime_text": "*", "dependencies": []}

@@ -1,0 +1,1 @@
+{"description": "ST plugin for the sweetest pastebin.", "url": "https://github.com/apas/pastery", "platforms": ["*"], "version": "1.1.1", "sublime_text": "*", "dependencies": []}

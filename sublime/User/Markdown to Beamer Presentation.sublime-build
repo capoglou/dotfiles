@@ -1,0 +1,5 @@
+{
+  "cmd": ["mdtobeamer", "$file_name"],
+  "selector": "source.markdown",
+  "path": "/usr/local/bin/:/Library/TeX/texbin:$PATH"
+}

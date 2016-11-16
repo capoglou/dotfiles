@@ -1,0 +1,5 @@
+[
+  { 
+    "keys": ["command+option+c"], "command": "pastery"
+  }
+]

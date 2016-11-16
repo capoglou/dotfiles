@@ -1,0 +1,5 @@
+{
+    "cmd": ["mdtopdf", "$file_name"],
+    "selector": "text.html.markdown",
+    "path": "/usr/local/bin/:$PATH"
+}
